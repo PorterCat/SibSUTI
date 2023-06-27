@@ -74,6 +74,7 @@ int data_decryption(string path, string key)
     ifstream file1, file2;
     string line; // Хранит зашифрованную строку
     int size = 0;
+	
 
     file1.open(path);     
     if (!file1.is_open())
@@ -122,22 +123,32 @@ int data_decryption(string path, string key)
         }
     }
     file2.close();
-
-    char decrypted_str;
-
-    for (int i = 0; i < line.length(); i++)
+	
+	ofstream decryptfile;
+    string key_path = "decryptfile_" + path;
+    decryptfile.open(key_path, ios::out);
+	if (!decryptfile.is_open())
     {
-        if (line[i] < key_mas[i])
-        {
-            decrypted_str = (int)line[i] + 256 - key_mas[i];
-        }
-        else
-        {
-            decrypted_str = (int)line[i] - key_mas[i];
-        }
-        cout << decrypted_str;
+        cout << "Error with open the file " << path << endl;
     }
+    else
+    {
+        unsigned char decrypted_str;
 
+		for (int i = 0; i < line.length(); i++)
+		{
+			if (line[i] < key_mas[i])
+			{
+				decrypted_str = (unsigned char)((int)line[i] + 256 - key_mas[i]);
+			}
+			else
+			{
+				decrypted_str = (unsigned char)((int)line[i] - key_mas[i]);
+			}
+			decryptfile << decrypted_str;
+		}
+    }
+	decryptfile.close();
     cout << endl;
     return 0;
 }
@@ -148,8 +159,29 @@ int main(int argc, unsigned char* argv[])
     string path_for_encrypted = "cryptfile_" + path;
     string path_for_keyfile = "key_file_" + path;
 
-    /*data_encryption(path);*/
-
-    data_decryption(path_for_encrypted, path_for_keyfile);
+	int v;
+	
+	while(1)
+	{
+		cout << "\t|Encrypt-Decrpypt|\n1. Encrypt\n2. Decrypt\n3. Exit\n";
+		cout << "Enter: ";
+		cin >> v;
+		
+		if(v == 3)
+		{
+			break;
+		}
+		
+		switch(v)
+		{
+			case 1: 
+				data_encryption(path);
+				break;
+			case 2: 
+				data_decryption(path_for_encrypted, path_for_keyfile);;
+				break;
+		}
+	}
+	
 }
 

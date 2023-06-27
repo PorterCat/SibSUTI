@@ -1,5 +1,0 @@
-﻿  ProgrammingCourse.cpp
-C:\Programming\Programmings\ProgrammingCourse\ProgrammingCourse\ProgrammingCourse.cpp(57,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Programming\Programmings\ProgrammingCourse\ProgrammingCourse\ProgrammingCourse.cpp(92,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Programming\Programmings\ProgrammingCourse\ProgrammingCourse\ProgrammingCourse.cpp(92,36): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
-  ProgrammingCourse.vcxproj -> C:\Programming\Programmings\ProgrammingCourse\x64\Debug\ProgrammingCourse.exe
