@@ -70,6 +70,11 @@ void task2()
     int** matrix = genRandMatrix(size, maxValue);
     printMatrix(matrix);
     
+    for(int i = 0; i < size + 1; i++)
+    {
+        free(matrix[i]);
+    }
+    free(matrix);
 }
 
 int** genRandMatrix(int size, int maxValue)
