@@ -1,0 +1,16 @@
+C:\Programming\SAPD-Course\SAPD-Course\bin\Debug\SAPD-Course.exe.config
+C:\Programming\SAPD-Course\SAPD-Course\bin\Debug\SAPD-Course.exe
+C:\Programming\SAPD-Course\SAPD-Course\bin\Debug\SAPD-Course.pdb
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD-Course.csproj.AssemblyReference.cache
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD-Course.csproj.SuggestedBindingRedirects.cache
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\MainWindow.g.cs
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\App.g.cs
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD-Course_MarkupCompile.cache
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD-Course_MarkupCompile.lref
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\MainWindow.baml
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD-Course.g.resources
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD_Course.Properties.Resources.resources
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD-Course.csproj.GenerateResource.cache
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD-Course.csproj.CoreCompileInputs.cache
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD-Course.exe
+C:\Programming\SAPD-Course\SAPD-Course\obj\Debug\SAPD-Course.pdb

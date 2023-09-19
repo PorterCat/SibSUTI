@@ -1,0 +1,8 @@
+C:\Programming\CAPD-Test\bin\Debug\CAPD-Test.exe.config
+C:\Programming\CAPD-Test\bin\Debug\CAPD-Test.exe
+C:\Programming\CAPD-Test\bin\Debug\CAPD-Test.pdb
+C:\Programming\CAPD-Test\obj\Debug\CAPD-Test.csproj.AssemblyReference.cache
+C:\Programming\CAPD-Test\obj\Debug\CAPD-Test.csproj.SuggestedBindingRedirects.cache
+C:\Programming\CAPD-Test\obj\Debug\CAPD-Test.csproj.CoreCompileInputs.cache
+C:\Programming\CAPD-Test\obj\Debug\CAPD-Test.exe
+C:\Programming\CAPD-Test\obj\Debug\CAPD-Test.pdb

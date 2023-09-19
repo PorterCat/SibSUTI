@@ -88,16 +88,16 @@ void printArray(int* array, int n)
 
 void leftDiagonal(int** matrix, int n, int* array)
 {
-    int temp;
-    int k = 0;
-    int it = 2*n - 2; //5
+    int temp; //Размер 3
+    int k = 0; //Счётчик массива
+    int iterations = 2*n - 1; //5
 
-    for(int iterations = 0; iterations < it; iterations++)
+    for(int i = 0; i < iterations; i++)
     {
-        if(iterations < n)
+        if(i < n)
         {
             temp = 0;
-            for(int j = iterations; j >= 0; j--)
+            for(int j = i; j >= 0; j--)
             {
                 array[k] = matrix[temp][j];
                 k++;
@@ -106,8 +106,8 @@ void leftDiagonal(int** matrix, int n, int* array)
         }
         else
         {
-            temp = iterations - n + 1; // 1 2 3
-            for(int j = n; temp >= it - iterations + 1; j--)
+            temp = i - n + 1; // 1 2 3 
+            for(int j = n; temp <= iterations - i + 1; j--)
             {
                 array[k] = matrix[temp][j];
                 k++;

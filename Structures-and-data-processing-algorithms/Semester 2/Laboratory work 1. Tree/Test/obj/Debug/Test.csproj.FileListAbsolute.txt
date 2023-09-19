@@ -1,0 +1,8 @@
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\Test\bin\Debug\Test.exe.config
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\Test\bin\Debug\Test.exe
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\Test\bin\Debug\Test.pdb
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\Test\obj\Debug\Test.exe
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\Test\obj\Debug\Test.pdb

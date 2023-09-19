@@ -1,0 +1,16 @@
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\bin\Debug\IBSTree.exe.config
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\bin\Debug\IBSTree.exe
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\bin\Debug\IBSTree.pdb
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree.csproj.AssemblyReference.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree.csproj.SuggestedBindingRedirects.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\MainWindow.g.cs
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\App.g.cs
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree_MarkupCompile.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree_MarkupCompile.lref
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\MainWindow.baml
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree.g.resources
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree.Properties.Resources.resources
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree.csproj.GenerateResource.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree.csproj.CoreCompileInputs.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree.exe
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 2\Laboratory work 1. Tree\IBSTree\obj\Debug\IBSTree.pdb
