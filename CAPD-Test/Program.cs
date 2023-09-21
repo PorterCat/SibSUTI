@@ -11,7 +11,7 @@ namespace CAPD_Test
     {
         private static readonly Encoding _cpp866 = Encoding.GetEncoding("cp866");
 
-        private static readonly string _filePath = @"C:\Programming\CAPD-Test\testBase3.dat";
+        private static readonly string _filePath = @"C:\Programming\SibSUTI\CAPD-Test\testBase3.dat";
         static void Main(string[] args)
         {
             List<Note> notes = new List<Note>();  
@@ -76,7 +76,7 @@ namespace CAPD_Test
             {
 
                 list.Add(i);
-                int size = 3; // 3 буквы в фамилии
+                int size = notes[i].Lawyer.Length;
                 byte[] bytes = new byte[size];
                 for (int j = 0; j < size; j++)
                 {
@@ -85,7 +85,7 @@ namespace CAPD_Test
                 byteLawyer.Add(i, bytes);
             }
 
-            for (int j = 2; j >= 0; j--) //Каждый байт анализируется справа налево <-
+            for (int j = 3; j >= 0; j--) //Каждый байт анализируется справа налево <-
             {
 
                 var qList = new List<Queue<int>>(256); //Создаём 256 очередей для работы с байтами
@@ -122,7 +122,7 @@ namespace CAPD_Test
 
                 if (notes[list[index]].Lawyer == notes[list[index - 1]].Lawyer)
                 {
-                    while (notes[list[index]].Lawyer.Substring(0,3) == notes[list[index - 1]].Lawyer.Substring(0, 3))
+                    while (notes[list[index]].Lawyer == notes[list[index - 1]].Lawyer)
                     {
                         forSecondParametr.Add(notes[list[index-1]]);
                         index++;

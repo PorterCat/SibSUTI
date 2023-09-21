@@ -8,21 +8,23 @@ namespace IBSTree.Tree
 {
     public class Tree<T> where T : IComparable<T>
     {
-        private TreeNode<T> _root;
+
         private TreeNode<T> _pointer;
+
+        public TreeNode<T> Root { get; set; }
 
         public Tree()
         {
             _pointer = new TreeNode<T>();
-            _root = _pointer;
+            Root = _pointer;
         }
 
         public void Add(int L, int R)
         {
             int m = (L + R) / 2;
-            _root.Value = m;
-            _root.Left = Add2(L, m - 1);
-            _root.Right = Add2(m + 1, R);
+            Root.Value = m;
+            Root.Left = Add2(L, m - 1);
+            Root.Right = Add2(m + 1, R);
         }
 
         public TreeNode<T> Add2(int L, int R)
@@ -43,11 +45,11 @@ namespace IBSTree.Tree
 
         public void Show()
         {
-            if (_root != null)
+            if (Root != null)
             {
-                Show(_root.Left);
-                Console.Write(_root.Value + " ");
-                Show(_root.Right);
+                Show(Root.Left);
+                Console.Write(Root.Value + " ");
+                Show(Root.Right);
             }
         }
 
@@ -63,9 +65,9 @@ namespace IBSTree.Tree
 
         public int Size()
         {
-            if (_root != null)
+            if (Root != null)
             {
-                _pointer = _root;
+                _pointer = Root;
                 return 1 + Size(_pointer.Left) + Size(_pointer.Right);
             }
             else
@@ -88,9 +90,9 @@ namespace IBSTree.Tree
 
         public int CheckSum()
         {
-            if (_root != null)
+            if (Root != null)
             {
-                return Convert.ToInt32(_root.Value) + CheckSum(_root.Left) + CheckSum(_root.Right);
+                return Convert.ToInt32(Root.Value) + CheckSum(Root.Left) + CheckSum(Root.Right);
             }
             else
             {
@@ -112,9 +114,9 @@ namespace IBSTree.Tree
 
         public int HeightsOfTree()
         {
-            if (_root != null)
+            if (Root != null)
             {
-                return 1 + Math.Max(HeightsOfTree(_root.Left), HeightsOfTree(_root.Right));
+                return 1 + Math.Max(HeightsOfTree(Root.Left), HeightsOfTree(Root.Right));
             }
             else
             {
@@ -136,9 +138,9 @@ namespace IBSTree.Tree
 
         public int SumOfLenPaths(int L)
         {
-            if (_root != null)
+            if (Root != null)
             {
-                return L + SumOfLenPaths(_root.Left, L + 1) + SumOfLenPaths(_root.Right, L + 1);
+                return L + SumOfLenPaths(Root.Left, L + 1) + SumOfLenPaths(Root.Right, L + 1);
             }
             else
             {
@@ -160,7 +162,7 @@ namespace IBSTree.Tree
 
         public double AverageHeight()
         {
-            return (SumOfLenPaths(_root, 1) / (double)Size(_root));
+            return (SumOfLenPaths(Root, 1) / (double)Size(Root));
         }
     }
 }

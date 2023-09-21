@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IBSTree.Tree
 {
-    public class TreeNode<T> where T : IComparable<T>
+    public class TreeNode<T> where T: IComparable<T>
     {
         public int Value;
         public TreeNode<T> Left;

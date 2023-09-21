@@ -12,15 +12,11 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            var numbers = Enumerable.Range(1, 20).ToArray();
-            var distinctRandom = new DistinctRandom(numbers);
-
-           
-
             var tree = new Tree<int>(); // Создаем дерево без корня
 
             tree.Add(1, 100); //на обработку передаем цифры в массиве
             tree.Show();
+            Console.WriteLine($"\nSize: {tree.Size()} CheckSum: {tree.CheckSum()} Height: {tree.HeightsOfTree()} Avr. height: {tree.AverageHeight()}");
             Console.ReadLine();
         }
     }

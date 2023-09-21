@@ -1,0 +1,15 @@
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\FoxAndRabbit.csproj.AssemblyReference.cache
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\FoxAndRabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\FoxAndRabbit.AssemblyInfoInputs.cache
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\FoxAndRabbit.AssemblyInfo.cs
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\FoxAndRabbit.csproj.CoreCompileInputs.cache
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\bin\Debug\net7.0\FoxAndRabbit.exe
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\bin\Debug\net7.0\FoxAndRabbit.deps.json
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\bin\Debug\net7.0\FoxAndRabbit.runtimeconfig.json
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\bin\Debug\net7.0\FoxAndRabbit.dll
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\bin\Debug\net7.0\FoxAndRabbit.pdb
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\FoxAndRabbit.dll
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\refint\FoxAndRabbit.dll
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\FoxAndRabbit.pdb
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\FoxAndRabbit.genruntimeconfig.cache
+C:\Programming\SibSUTI\OOP\FoxAndRabbit\obj\Debug\net7.0\ref\FoxAndRabbit.dll
