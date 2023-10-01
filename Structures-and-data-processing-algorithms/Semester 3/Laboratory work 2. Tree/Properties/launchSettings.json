@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RandomTree": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

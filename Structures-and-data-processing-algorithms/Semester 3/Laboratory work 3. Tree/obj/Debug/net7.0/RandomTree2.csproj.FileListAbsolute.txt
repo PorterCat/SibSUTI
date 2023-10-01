@@ -1,0 +1,15 @@
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\RandomTree2.csproj.AssemblyReference.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\RandomTree2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\RandomTree2.AssemblyInfoInputs.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\RandomTree2.AssemblyInfo.cs
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\RandomTree2.csproj.CoreCompileInputs.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\bin\Debug\net7.0\RandomTree2.exe
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\bin\Debug\net7.0\RandomTree2.deps.json
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\bin\Debug\net7.0\RandomTree2.runtimeconfig.json
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\bin\Debug\net7.0\RandomTree2.dll
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\bin\Debug\net7.0\RandomTree2.pdb
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\RandomTree2.dll
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\refint\RandomTree2.dll
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\RandomTree2.pdb
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\RandomTree2.genruntimeconfig.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 3. Tree\obj\Debug\net7.0\ref\RandomTree2.dll

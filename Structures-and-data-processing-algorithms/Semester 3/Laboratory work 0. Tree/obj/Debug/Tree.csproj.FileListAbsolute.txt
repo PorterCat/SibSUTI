@@ -1,0 +1,16 @@
+C:\Programming\Tree\bin\Debug\Tree.exe.config
+C:\Programming\Tree\bin\Debug\Tree.exe
+C:\Programming\Tree\bin\Debug\Tree.pdb
+C:\Programming\Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
+C:\Programming\Tree\obj\Debug\Tree.csproj.SuggestedBindingRedirects.cache
+C:\Programming\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Programming\Tree\obj\Debug\Tree.exe
+C:\Programming\Tree\obj\Debug\Tree.pdb
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 0. Tree\bin\Debug\Tree.exe.config
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 0. Tree\bin\Debug\Tree.exe
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 0. Tree\bin\Debug\Tree.pdb
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 0. Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 0. Tree\obj\Debug\Tree.csproj.SuggestedBindingRedirects.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 0. Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 0. Tree\obj\Debug\Tree.exe
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 0. Tree\obj\Debug\Tree.pdb

@@ -8,14 +8,9 @@ namespace FoxesAndRabbits
         public Direction Direction { get; protected set;}
         public (int X, int Y) Position { get; protected set; }
         public int Stable{ get; protected set;}
-        protected Simulation Model;
+        protected Simulation? Model;
 
         public abstract void Move(); //Движение
-
-        public void ChangeDirection() //Изменить направление
-        {
-            
-        }
 
         public void GrowAge()
         {

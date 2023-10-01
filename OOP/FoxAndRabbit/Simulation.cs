@@ -33,13 +33,13 @@
 
             for(int i = 0; i< foxesCount; i++)
             {
-                CreateFox((rand.Next(0, n), rand.Next(0, m)), (Direction)rand.Next(0, 4), rand.Next(0, 3), _foxesCurrentIndex);
+                CreateFox((rand.Next(0, n-1), rand.Next(0, m-1)), (Direction)rand.Next(0, 4), rand.Next(0, 3), _foxesCurrentIndex);
                 _foxesCurrentIndex++;
             }
 
             for (int i = 0; i < rabbitsCount; i++)
             {
-                CreateRabbit((rand.Next(0, n), rand.Next(0, m)), (Direction)rand.Next(0, 4), rand.Next(0, 3));
+                CreateRabbit((rand.Next(0, n - 1), rand.Next(0, m - 1)), (Direction)rand.Next(0, 4), rand.Next(0, 3));
             }
         }
 
