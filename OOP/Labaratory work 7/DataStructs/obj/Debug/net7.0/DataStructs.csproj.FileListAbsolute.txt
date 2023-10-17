@@ -1,0 +1,15 @@
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\DataStructs.csproj.AssemblyReference.cache
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\DataStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\DataStructs.AssemblyInfoInputs.cache
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\DataStructs.AssemblyInfo.cs
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\DataStructs.csproj.CoreCompileInputs.cache
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\bin\Debug\net7.0\DataStructs.exe
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\bin\Debug\net7.0\DataStructs.deps.json
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\bin\Debug\net7.0\DataStructs.runtimeconfig.json
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\bin\Debug\net7.0\DataStructs.dll
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\bin\Debug\net7.0\DataStructs.pdb
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\DataStructs.dll
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\refint\DataStructs.dll
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\DataStructs.pdb
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\DataStructs.genruntimeconfig.cache
+C:\Programming\SibSUTI\OOP\Labaratory work 7\DataStructs\obj\Debug\net7.0\ref\DataStructs.dll

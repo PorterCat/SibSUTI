@@ -7,22 +7,28 @@ namespace RandomTree2
     {
         public static void Main(string[] args)
         {
+            Random random = new();
+
             TreeRand<int> randomTree = new();
 
-            randomTree.Add(2);
-            randomTree.Add(8);
-            randomTree.Add(11);
-            randomTree.Add(5);
-            randomTree.Add(1);
-            randomTree.Add(6);
+
+            for(int i = 0; i < 10; i++)
+            {
+                randomTree.Add(random.Next(1, 20));
+            }    
 
             randomTree.PrintTree();
+
+            for(int i = 0; i < 100; i++)
+            {
+                Console.WriteLine("Enter the key: ");
+                string x = Console.ReadLine();
+
+                randomTree.Root = randomTree.Delete(randomTree.Root, int.Parse(x));
+                randomTree.PrintTree();
+            }
+
             Console.WriteLine();
-
-            randomTree.Delete(8);
-            randomTree.PrintTree();
-
-            Console.ReadLine();
         }
     }
 }

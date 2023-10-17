@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CAPD_Test.Data_structs
 {
@@ -80,6 +75,18 @@ namespace CAPD_Test.Data_structs
             _root = null;
             _tail = null;
             Count = 0;
+        }
+
+        private class Node<T>
+        {
+            public Node<T> Next;
+            public T Value;
+
+            public Node(T value)
+            {
+                Value = value;
+                Next = null;
+            }
         }
     }
 }

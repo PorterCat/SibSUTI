@@ -1,0 +1,8 @@
+C:\Programming\SibSUTI\CourseSAPD\bin\Debug\CourseSAPD.exe.config
+C:\Programming\SibSUTI\CourseSAPD\bin\Debug\CourseSAPD.exe
+C:\Programming\SibSUTI\CourseSAPD\bin\Debug\CourseSAPD.pdb
+C:\Programming\SibSUTI\CourseSAPD\obj\Debug\CourseSAPD.csproj.AssemblyReference.cache
+C:\Programming\SibSUTI\CourseSAPD\obj\Debug\CourseSAPD.csproj.SuggestedBindingRedirects.cache
+C:\Programming\SibSUTI\CourseSAPD\obj\Debug\CourseSAPD.csproj.CoreCompileInputs.cache
+C:\Programming\SibSUTI\CourseSAPD\obj\Debug\CourseSAPD.exe
+C:\Programming\SibSUTI\CourseSAPD\obj\Debug\CourseSAPD.pdb

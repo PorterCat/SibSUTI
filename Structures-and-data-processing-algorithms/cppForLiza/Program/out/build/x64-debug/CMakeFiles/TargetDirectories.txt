@@ -1,0 +1,3 @@
+C:/Programming/SibSUTI/Structures-and-data-processing-algorithms/cppForLiza/Program/out/build/x64-debug/CMakeFiles/Program.dir
+C:/Programming/SibSUTI/Structures-and-data-processing-algorithms/cppForLiza/Program/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Programming/SibSUTI/Structures-and-data-processing-algorithms/cppForLiza/Program/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

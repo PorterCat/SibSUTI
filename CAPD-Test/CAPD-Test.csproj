@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data-structs\AVLTree.cs" />
     <Compile Include="Data-structs\MyLinkedList.cs" />
     <Compile Include="Data-structs\Node.cs" />
+    <Compile Include="Data-structs\TreeNode.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

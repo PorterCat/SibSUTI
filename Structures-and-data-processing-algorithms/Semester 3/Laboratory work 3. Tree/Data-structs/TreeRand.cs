@@ -90,7 +90,7 @@ namespace RandomTree2.Data_structs
             }
         }
 
-        private TreeNode<T> Delete(TreeNode<T> node, T key)
+        public TreeNode<T> Delete(TreeNode<T> node, T key)
         {
             if(node == null)
             {

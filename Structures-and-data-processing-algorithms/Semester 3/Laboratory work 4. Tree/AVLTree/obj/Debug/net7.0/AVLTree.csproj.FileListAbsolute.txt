@@ -1,0 +1,15 @@
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\bin\Debug\net7.0\AVLTree.exe
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\bin\Debug\net7.0\AVLTree.deps.json
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\bin\Debug\net7.0\AVLTree.runtimeconfig.json
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\bin\Debug\net7.0\AVLTree.dll
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\bin\Debug\net7.0\AVLTree.pdb
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\AVLTree.csproj.AssemblyReference.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\AVLTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\AVLTree.AssemblyInfoInputs.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\AVLTree.AssemblyInfo.cs
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\AVLTree.csproj.CoreCompileInputs.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\AVLTree.dll
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\refint\AVLTree.dll
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\AVLTree.pdb
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\AVLTree.genruntimeconfig.cache
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\Semester 3\Laboratory work 4. Tree\AVLTree\obj\Debug\net7.0\ref\AVLTree.dll

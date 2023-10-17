@@ -1,0 +1,18 @@
+# ninja log v5
+12	682	7181188546160720	CMakeFiles/Program.dir/Program.cpp.obj	ba848534e25d8d55
+750	948	7181187281062359	Program.exe	5ab43f8f9e0db91d
+6	719	7181189985594881	CMakeFiles/Program.dir/Node.cpp.obj	36e5af14eccf8fdd
+10	857	7181196155413687	CMakeFiles/Program.dir/Program.cpp.obj	ba848534e25d8d55
+14	858	7181196155423701	CMakeFiles/Program.dir/Node.cpp.obj	36e5af14eccf8fdd
+858	980	7181196156293799	Program.exe	9359ac6d8d1ea84a
+10	746	7181196626946609	CMakeFiles/Program.dir/Program.cpp.obj	ba848534e25d8d55
+746	873	7181196627967188	Program.exe	9359ac6d8d1ea84a
+10	589	7181197049279300	CMakeFiles/Program.dir/Node.cpp.obj	36e5af14eccf8fdd
+589	690	7181197050069217	Program.exe	9359ac6d8d1ea84a
+9	592	7181198247319839	CMakeFiles/Program.dir/Program.cpp.obj	ba848534e25d8d55
+13	593	7181198247334905	CMakeFiles/Program.dir/Node.cpp.obj	36e5af14eccf8fdd
+593	728	7181198248415194	Program.exe	9359ac6d8d1ea84a
+9	583	7181198371541692	CMakeFiles/Program.dir/Node.cpp.obj	36e5af14eccf8fdd
+583	684	7181198372332525	Program.exe	9359ac6d8d1ea84a
+10	580	7181198562062022	CMakeFiles/Program.dir/Node.cpp.obj	36e5af14eccf8fdd
+581	688	7181198562862208	Program.exe	9359ac6d8d1ea84a

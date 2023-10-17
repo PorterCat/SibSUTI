@@ -1,0 +1,7 @@
+﻿  Node.cpp
+  main.cpp
+  Создание кода...
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Node<int>::Node<int>(int)" (??0?$Node@H@@QEAA@H@Z) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Node<int>::~Node<int>(void)" (??1?$Node@H@@QEAA@XZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Node<int>::Show(void)" (?Show@?$Node@H@@QEAAXXZ) в функции main.
+C:\Programming\SibSUTI\Structures-and-data-processing-algorithms\cppForLiza\DigitalSort\x64\Debug\DigitalSort.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
